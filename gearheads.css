@@ -1,0 +1,8 @@
+#hiperlink1 {
+    text-decoration: none;
+    color: #ff00a7;
+}
+#hiperlink1:hover {
+    text-decoration: underline;
+    color: #ff00a7;
+}

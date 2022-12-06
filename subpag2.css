@@ -1,0 +1,14 @@
+.card-body {
+    background-color: #f2f1ec;
+}
+.card {
+    border-color: #ff00a7;
+    border-width: 3px;
+    background-color: #f2f1ec;
+}
+.card-title {
+    color: #ff00a7;
+}
+.card-title:hover {
+    text-decoration: underline;
+}
